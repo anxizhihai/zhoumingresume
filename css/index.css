@@ -212,7 +212,16 @@ li {
 }
 
 .lis {
-    animation: identifier 8s linear 1.5s infinite;
+    animation: identifiers 8s linear 1.5s infinite;
+}
+
+@keyframes identifiers {
+    0% {
+        transform: translateY(0px);
+    }
+    100% {
+        transform: translateY(-120px);
+    }
 }
 
 @keyframes identifier {
@@ -220,7 +229,7 @@ li {
         transform: translateY(0px);
     }
     100% {
-        transform: translateY(-150px);
+        transform: translateY(-500px);
     }
 }
 
