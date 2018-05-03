@@ -118,7 +118,7 @@ li {
 }
 
 .audios p {
-    font-size: 1.5em;
+    font-size: 1em;
     transition: 1s;
     margin: 0px;
 }
@@ -263,13 +263,13 @@ li {
 
 .blog {
     width: 95%;
-    font-size: 1em;
+    font-size: 0.8em;
     margin-left: 5%;
     padding: 2% 0px;
 }
 
 .blog span:first-child {
-    font-size: 1em;
+    font-size: 0.8em;
     font-weight: 600
 }
 
