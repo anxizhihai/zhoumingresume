@@ -242,7 +242,7 @@ li {
 .workbox {
     width: 90%;
     margin-bottom: 30px;
-    animation: identifier 8s linear 1.5s infinite;
+    animation: identifier 10s linear 1.5s infinite;
     margin-left: 5%;
     padding: 0px 5px;
 }
