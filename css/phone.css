@@ -57,16 +57,14 @@
     right: 20%;
 }
 
-
-/* 
 @keyframes identifier {
     0% {
         transform: translateY(0px);
     }
     100% {
-        transform: translateY(-500px);
+        transform: translateY(-450px);
     }
-} */
+}
 
 .transforms ul li:nth-child(1) {
     /* 先绕y轴旋转60度,再沿z轴平移200px,就会形成立体感 */
