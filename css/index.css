@@ -81,7 +81,7 @@ li {
 }
 
 .imagebox:hover .rightbox {
-    display: block;
+    display: none;
 }
 
 .rightbox li {
