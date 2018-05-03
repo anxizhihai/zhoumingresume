@@ -7,5 +7,7 @@ function ajaxXHR(type, url, cb, params) {
         }
     }
     xhr.open(type, url, true);
+    xhr.setRequestHeader("Content-Type", "multipart/form-data");
+    xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
     xhr.send(params);
 }
