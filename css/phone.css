@@ -62,7 +62,7 @@
         transform: translateY(0px);
     }
     100% {
-        transform: translateY(-800px);
+        transform: translateY(-750px);
     }
 }
 
